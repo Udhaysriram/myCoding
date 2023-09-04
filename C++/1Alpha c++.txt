@@ -1,0 +1,11 @@
+Write a C++ program to create a class name as "Employee" encaptulate these(Employee name,  Age, BasicPay)  data into a private section, and pack the employee id under public section. This program should able to store the data  for the no of employees mentioned by the end user, and print all the stored employee's basic pay along with 10% Bonus of their Basic pay as a table format.
+
+2..	Write a C++ Program to implement the incomeTax() friend function to access private data of three classes (Managers, Labours, and SalesMen)
+
+3..	Write a C++ program using static data member and static member function concept.
+
+4..	Write a C++ program to implement the power of OOPs for feature of reusability (Any Type of Inheritance).
+
+5.	Write a C++ program to add the two given matrices using Multi-dimensional Arrays
+
+6.	Write a C++ Program to  arrange the names of the students. (Try to write with class). This program should able to find the student detail using given input.
