@@ -7,21 +7,21 @@ create table patient(
  pcontact varchar(10)
 );
 
-insert into patient values('abc101','udhay','12,ast','rjpm','6385478389');
-insert into patient values('abc102','kathir','15anikam,','rjpm','6352445564');
-insert into patient values('abc103','manikam','12,ghist,','rjpm','');
-insert into patient values('abc104','manoj','12,mai st,','rjpm','8844775569');
-insert into patient values('abc105','shankar','12,anagar,','rjpm','8844557662');
-insert into patient values('abc106','saravana','12,hay,','rjpm','5522447996');
+insert into patient values('abc101','user1','12,ast','rjpm','5555555555');
+insert into patient values('abc102','user2','15anikam,','rjpm','9999999999');
+insert into patient values('abc103','user3','12,ghist,','rjpm','');
+insert into patient values('abc104','user4','12,mai st,','rjpm','8888888888');
+insert into patient values('abc105','user5','12,anagar,','rjpm','5544557755');
+insert into patient values('abc106','user6','12,hay,','rjpm','2200114452');
 
 create table doctor(did varchar(6) primary key,
 dname varchar(9));
 
-insert into doctor values('abcd01','niyathi');
-insert into doctor values('abcd02','shri');
-insert into doctor values('abcd03','yamini');
-insert into doctor values('abcd04','davis');
-insert into doctor values('abcd05','naveena');
+insert into doctor values('abcd01','doctor1');
+insert into doctor values('abcd02','doctor2');
+insert into doctor values('abcd03','doctor3');
+insert into doctor values('abcd04','doctor4');
+insert into doctor values('abcd05','doctor5');
 
 create table appointment(
 appno varchar(6) primary key,
